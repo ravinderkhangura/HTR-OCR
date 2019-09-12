@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="bgrounds">
+    <file>htr.png</file>
+    <file>ocr.png</file>
+    <file>triangle.png</file>
+    <file>code.jpg</file>
+    <file>bdlit.jpg</file>
+    <file>proceed.png</file>
+    <file>back.png</file>
+    <file>up.png</file>
+    <file>camera.png</file>
+    <file>bgcat.jpg</file>
+    <file>bgitem.jpg</file>
+    <file>blur.jpg</file>
+    <file>uploadicon.png</file>
+    <file>deadpool.jpeg</file>
+    <file>dp.png</file>
+    <file>loginbg.jpg</file>
+    <file>sdp.png</file>
+    <file>uploadbg.png</file>
+  </qresource>
+</RCC>
